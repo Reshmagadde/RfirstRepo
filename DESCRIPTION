@@ -1,0 +1,14 @@
+Package: RfirstRepo
+Title: Mathematical Functions
+Version: 1.0.0.0000
+Authors@R: 
+    person(given = "Reshma",
+           family = "Gadde",
+           role = c("aut", "cre"),
+           email = "gadde.reshma@gmail.com")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
